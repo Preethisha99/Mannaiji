@@ -1,0 +1,419 @@
+.visithailand .wwabpluselement {
+  position: absolute;
+  left: 15% !important;
+  top: 39% !important;
+  z-index: 1;
+}
+.visithailand .techbannertext {
+  left: 19%;
+  top: 54%;
+}
+.visithailand .visthailandbannerfont {
+  font-size: 3rem !important;
+  text-align: initial;
+  line-height: 3rem !important;
+}
+.visithailand .visthailandnormalfont {
+  font-size: 2rem !important;
+  text-align: initial;
+  line-height: 3rem !important;
+}
+.visithailand .visitthaillandbanner {
+  background: linear-gradient(rgba(23, 48, 108, 0.5), rgba(14, 28, 85, 0.753)),
+    url("../img/visitthaillandbanner.jpg") top;
+  background-size: cover;
+}
+.visithailand .bgsquarex {
+  background-image: url("../img/elementsmallx.png");
+  background-size: contain;
+}
+.visithailand .vtpackbtn {
+  position: absolute;
+  top: 88%;
+  left: 15%;
+}
+.visithailand .wwabpluselement {
+  position: absolute;
+  left: 8% !important;
+  top: 48% !important;
+  z-index: 1;
+}
+
+.visithailand .wwabpluselement img {
+  height: 210px;
+  width: 210px;
+}
+.visithailand .bgthailandblue {
+  background-color: #3891da;
+}
+
+.visithailand .social-rounded a:hover {
+  background: #02a6fd;
+  border-color: #fff;
+  color: #ffffff !important;
+}
+.visithailand .footersocial-rounded a:hover {
+  background: #02a6fd;
+  border-color: #fff;
+  color: #ffffff !important;
+}
+
+.visithailand .serviceelementjwwab {
+  position: absolute;
+  left: 20%;
+  bottom: 12%;
+  z-index: 2;
+  width: 50%;
+  top: 78%;
+}
+
+.visithailand .linearthailandbgm {
+  background: rgb(1, 112, 184);
+  background: linear-gradient(
+    90deg,
+    rgba(1, 112, 184, 1) 0%,
+    rgba(59, 92, 155, 1) 50%,
+    rgba(94, 90, 147, 1) 100%
+  );
+}
+.visithailand .abouttext {
+  line-height: 30px;
+  font-size: 19px;
+  word-spacing: 4px;
+}
+.visithailand .op8 {
+  background-color: #caa323;
+  opacity: 0.38;
+  width: 350px;
+}
+.visithailand .editcardiv {
+  top: 35%;
+  left: 20%;
+}
+.visithailand .editcardiv {
+  letter-spacing: 2rem;
+  height: fit-content;
+}
+.visithailand .editcardiv .loose {
+  display: flex;
+  letter-spacing: 0.1em;
+  font-size: 15px;
+  color: white;
+  top: 3px;
+  overflow: hidden;
+}
+.visithailand .editcarplus {
+  top: -18%;
+  left: -32%;
+  height: 100px !important;
+  width: 100px !important;
+}
+
+.scroll-hidden::-webkit-scrollbar {
+  display: none;
+}
+.visithailand .MesgPicthailand {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.visithailand .MesgPicthailand img {
+  height: 90%;
+  width: 90%;
+}
+.visithailand .editplusnew {
+  left: -1%;
+  top: 10%;
+}
+.visithailand .editplusnewright {
+  right: -1%;
+  top: 10%;
+}
+.visithailand .h-150 {
+  height: 150px;
+}
+
+@media (max-width: 426px) {
+  .visithailand .techelementsmallx {
+    display: none;
+  }
+  .visithailand .techbannertext {
+    width: 75%;
+  }
+
+  .visithailand .techbannertext {
+    top: 50%;
+  }
+  .visithailand .wwabpluselement img {
+    height: 150px;
+    width: 150px;
+  }
+  .visithailand .wwasmlogo {
+    display: none;
+  }
+  .visithailand .techpulusbot {
+    display: none;
+  }
+  .visithailand .serviceelementjwwab {
+    top: 83%;
+  }
+  .visithailand .wwabpluselement img {
+    visibility: hidden;
+  }
+  .visithailand .btn {
+    padding: -0.25rem 2rem 0.75rem;
+  }
+
+  .visithailand .vtpackbtn {
+    top: 87%;
+    left: 3%;
+  }
+  .visithailand .padmob {
+    /* padding: 20px; */
+  }
+  .visithailand .mobnone {
+    display: none;
+  }
+  .visithailand .mobcenter {
+    text-align: center;
+    padding-bottom: 10px;
+  }
+  .visithailand .mobborderbottom {
+    border-bottom: 1px solid white;
+  }
+  .visithailand .editplusnew {
+    left: -3%;
+    top: 2%;
+  }
+  .visithailand .editplusnewright {
+    right: -3%;
+    top: 2%;
+  }
+  .visithailand .mobpad {
+    padding-bottom: 15px;
+  }
+  .visithailand .blogelementsmallx {
+    display: none;
+  }
+  .visithailand .bl1 .blogpartpluselement {
+    margin-top: -18px;
+    margin-left: -1rem;
+  }
+  .visithailand .blogimgrbbtn {
+    left: 52%;
+  }
+  .visithailand .blogimgarelement {
+    left: 57%;
+  }
+  .visithailand .blogimgtpluselement {
+    left: 30%;
+    top: 37%;
+  }
+  .visithailand .blogimgrbbtn.editbottom a {
+    bottom: 13px;
+    position: relative;
+  }
+  .visithailand .blogimgarelement {
+    bottom: 24%;
+  }
+  .article-item-photo {
+    margin-right: 1rem;
+  }
+  .visithailand .editcarplus {
+    top: -28%;
+  }
+  .visithailand .techbannertext {
+    left: 15%;
+  }
+  .visithailand .bl1 h5 {
+    position: absolute;
+    left: 26.5%;
+    top: 1%;
+    font-size: 20px;
+    letter-spacing: 0.2rem;
+    font-weight: 400;
+    color: #fff;
+    padding: 0px;
+    padding-bottom: 0rem;
+  }
+  .visithailand .bl1 h6 {
+    font-size: 20px;
+    position: absolute;
+    left: 26.5%;
+    top: 19%;
+    letter-spacing: 0.2rem;
+    line-height: 2rem;
+    font-weight: 400;
+    color: #fff;
+    padding: 0px;
+    padding-bottom: 0rem;
+  }
+  .visithailand .share {
+    font-size: 14px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .visithailand .serviceelementjwwab {
+    position: absolute;
+    left: 20%;
+    bottom: 12%;
+    z-index: 2;
+    width: 50%;
+    top: 83%;
+  }
+  .visithailand .vtpackbtn {
+    position: absolute;
+    top: 88%;
+    left: 14%;
+  }
+  .visithailand .wwasmlogo {
+    visibility: hidden;
+  }
+  .visithailand .bl1 h5 {
+    position: absolute;
+    left: 13.5%;
+    top: 1%;
+    font-size: 20px;
+    letter-spacing: 0.2rem;
+    font-weight: 400;
+    color: #fff;
+    padding: 0px;
+    padding-bottom: 0rem;
+  }
+  .visithailand .bl1 h6 {
+    font-size: 20px;
+    position: absolute;
+    left: 13.5%;
+    top: 13%;
+    letter-spacing: 0.2rem;
+    line-height: 2rem;
+    font-weight: 400;
+    color: #fff;
+    padding: 0px;
+  }
+  .visithailand .bl1 .blogpartpluselement {
+    position: absolute;
+    margin-top: -1rem;
+    margin-left: 0rem;
+    margin-bottom: 1rem;
+    z-index: 1;
+  }
+  .visithailand .blogimgrbbtn {
+    position: absolute;
+    top: 82%;
+    left: 68%;
+    z-index: 5;
+  }
+  .visithailand .share {
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .visithailand .wwabpluselement {
+    position: absolute;
+    left: 6% !important;
+    top: 50% !important;
+    z-index: 1;
+  }
+  .visithailand .editplusnew {
+    left: -1%;
+    top: 7%;
+  }
+  .visithailand .editplusnewright {
+    right: -1%;
+    top: 7%;
+  }
+  .visithailand .bl1 h5 {
+    position: absolute;
+    left: 19.5%;
+    top: 3%;
+    font-size: 20px;
+    letter-spacing: 0.2rem;
+    font-weight: 400;
+    color: #fff;
+    padding: 0px;
+    padding-bottom: 0rem;
+  }
+  .visithailand .bl1 h6 {
+    font-size: 20px;
+    position: absolute;
+    left: 19.5%;
+    top: 14%;
+    letter-spacing: 0.2rem;
+    line-height: 2rem;
+    font-weight: 400;
+    color: #fff;
+    padding: 0px;
+    padding-bottom: 0rem;
+  }
+  .visithailand .blogimgrbbtn {
+    position: absolute;
+    top: 79%;
+    left: 67%;
+    z-index: 5;
+  }
+  .visithailand .blogimgarelement {
+    position: absolute;
+    left: 70%;
+    bottom: 22%;
+    z-index: 2;
+  }
+  .visithailand .share {
+    font-size: 14px;
+  }
+}
+@media screen and (min-width: 1440px) {
+  .visithailand .editplusnew {
+    left: -1%;
+    top: 13%;
+  }
+  .visithailand .editplusnewright {
+    right: -1%;
+    top: 13%;
+  }
+  .visithailand .bl1 h6 {
+    font-size: 20px;
+    position: absolute;
+    left: 16.5%;
+    top: 13%;
+    letter-spacing: 0.2rem;
+    line-height: 2rem;
+    font-weight: 400;
+    color: #fff;
+    padding: 0px;
+    padding-bottom: 0rem;
+  }
+  .visithailand .bl1 h5 {
+    position: absolute;
+    left: 16.5%;
+    top: 0%;
+    font-size: 20px;
+    letter-spacing: 0.2rem;
+    font-weight: 400;
+    color: #fff;
+    padding: 0px;
+    padding-bottom: 0rem;
+  }
+  .visithailand .share {
+    font-size: 14px;
+  }
+}
+@media (min-width: 427px) and (max-width: 821px) {
+  .visithailand .wwabpluselement {
+    left: 2% !important;
+    top: 48% !important;
+  }
+  .visithailand .tabnone {
+    display: none;
+  }
+  .visithailand .editplusnew {
+    top: 6%;
+  }
+  .visithailand .editplusnewright {
+    top: 6%;
+  }
+  .visithailand .padmob {
+    padding: 20px;
+  }
+}

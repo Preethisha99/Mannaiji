@@ -1,0 +1,701 @@
+.btmtext {
+  font-size: 1.2rem;
+  color: #c4c4c4;
+  line-height: 2.3rem;
+  margin-top: 35px;
+  letter-spacing: 0.1rem;
+  margin-left: 3rem;
+  margin-top: 11rem;
+  width: 70%;
+}
+.btmtext h4 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #c9c9c9;
+  padding: 0px;
+  padding-bottom: 0rem;
+  margin-left: 2rem;
+}
+.btmtext h3 {
+  font-size: 4rem;
+  font-weight: 600;
+  color: #fff;
+  margin-left: 2rem;
+  padding: 0px;
+  padding-bottom: 0.5rem;
+  border-bottom: solid 1px #c4c4c4;
+  letter-spacing: 0.1rem;
+  width: 93%;
+}
+.btmtext p {
+  font-size: 1.1rem;
+  color: #fff;
+  line-height: 2.3rem;
+  margin-top: 20px;
+  letter-spacing: 0.1rem;
+  margin-left: 2rem;
+}
+
+.btmpluselement {
+  position: absolute;
+  left: 49%;
+  top: 28%;
+  z-index: 1;
+}
+
+.btmbanelementtech {
+  position: absolute;
+  left: 13%;
+  bottom: 22%;
+  z-index: 2;
+}
+
+.btm {
+  text-align: left;
+}
+.btmtext {
+  font-size: 1.2rem;
+  color: #c4c4c4;
+  line-height: 2.3rem;
+  margin-top: 35px;
+  letter-spacing: 0.1rem;
+  margin-left: 3rem;
+  margin-top: 11rem;
+  width: 70%;
+}
+.btmtext h4 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #c9c9c9;
+  padding: 0px;
+  padding-bottom: 0rem;
+  margin-left: 2rem;
+}
+.btmtext h3 {
+  font-size: 4rem;
+  font-weight: 600;
+  color: #fff;
+  margin-left: 2rem;
+  padding: 0px;
+  padding-bottom: 0.5rem;
+  border-bottom: solid 1px #c4c4c4;
+  letter-spacing: 0.1rem;
+  width: 93%;
+}
+.btmtext p {
+  font-size: 1.1rem;
+  color: #fff;
+  line-height: 2.3rem;
+  margin-top: 20px;
+  letter-spacing: 0.1rem;
+  margin-left: 2rem;
+}
+.btmbg {
+  background: #17355d;
+  height: 620px;
+  width: 100%;
+}
+.btmimg {
+  position: absolute;
+  left: 16%;
+  top: 3%;
+}
+.btmgimg {
+  position: absolute;
+  left: 24%;
+  top: 29%;
+}
+.btmpulusbot {
+  position: absolute;
+  z-index: 1;
+}
+
+.customerper {
+  margin-top: 10rem;
+}
+.amtext {
+  font-size: 1.2rem;
+  color: #fff;
+  line-height: 2.2rem;
+  margin-top: 2rem;
+  letter-spacing: 0.05rem;
+  margin-left: 0rem;
+  text-align: left;
+  width: 91%;
+}
+.amtext h4 {
+  font-size: 1.9rem;
+  font-weight: 600;
+  color: #fff;
+  margin-left: 1.5rem;
+}
+.amtext li {
+  padding-bottom: 0.75rem;
+}
+
+.amimg {
+  position: absolute;
+  right: 52%;
+  top: 25%;
+  width: 33%;
+  text-align: right;
+  z-index: 5;
+}
+
+.nintyeight {
+  font-size: 14rem;
+  font-weight: 900;
+  text-align: center;
+  font-style: normal;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 4px;
+  -webkit-text-stroke-color: #00ffff;
+}
+.nintyeight .percentage {
+  font-size: 14rem;
+}
+
+.cr h4 {
+  font-size: 2.8rem;
+  font-weight: 600;
+  letter-spacing: 0.05rem;
+  text-align: center;
+  margin: 0px;
+  color: white !important;
+}
+.nintyfive {
+  font-size: 14rem;
+  font-weight: 900;
+  text-align: center;
+  font-style: normal;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 4px;
+  -webkit-text-stroke-color: #00ff00;
+}
+.nintyfive .percentage {
+  font-size: 14rem;
+}
+.cs h4 {
+  font-size: 2.7rem;
+  font-weight: 600;
+  letter-spacing: 0.05rem;
+  text-align: center;
+  margin-bottom: 20px;
+  color: white !important;
+}
+.businesslike {
+  background: #17355d;
+  color: white !important;
+}
+
+.businesslike .mplusblue {
+  color: #fff;
+  font-weight: 900;
+  font-size: 4.5rem;
+  font-family: "Arial";
+}
+.businesslike .text-blue {
+  color: #fff;
+}
+.businesslike .countpart h5 {
+  color: #fff;
+}
+
+.adminfeatext {
+  position: absolute;
+  left: 10%;
+  top: 44%;
+  display: block;
+  z-index: 5;
+  text-transform: uppercase;
+  letter-spacing: 0.08rem;
+  font-size: 4.5rem;
+  font-weight: bold;
+  transform: rotate(-90deg) translate(-50%, 0%);
+  transform-origin: bottom left;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #fff;
+}
+.finfeatext {
+  position: absolute;
+  right: -36%;
+  top: 44.5%;
+  display: block;
+  z-index: 5;
+  text-transform: uppercase;
+  letter-spacing: 0.01rem;
+  font-size: 4.5rem;
+  font-weight: bold;
+  transform: rotate(90deg) translate(-50%, 0%);
+  transform-origin: bottom left;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #fff;
+}
+
+.businesstravel .counterwhitebg {
+  background: #17355d;
+  height: 500px;
+  width: 100%;
+}
+.businesstravel .countpulusbot {
+  top: 60%;
+  left: 85%;
+  position: absolute;
+}
+.businesstravel .countuparrowelement {
+  top: 75%;
+}
+
+@media (max-width: 426px) {
+  .businesstravel .techelementsmallx {
+    display: none !important;
+  }
+  .businesstravel .btmpluselement img {
+    visibility: hidden;
+  }
+  .businesstravel .btmbanelementtech {
+    display: none !important;
+  }
+  .businesstravel .techpulusbot {
+    display: none !important;
+  }
+  .businesstravel .techserviceelement1bot {
+    display: none !important;
+  }
+  .businesstravel .travelmanagementpart {
+    margin-top: 0px !important;
+    margin-left: 0px !important;
+  }
+  .businesstravel .tmpulusbot {
+    display: none !important;
+  }
+  .businesstravel .travelmanagementpart h4 {
+    margin-top: 15px !important;
+  }
+  .businesstravel .btmbg {
+    height: 480px !important;
+  }
+  .businesstravel .btmimg {
+    /* left: 5% !important;
+    top: 72px !important; */
+    position: relative;
+    left: 33%;
+    top: -64%;
+  }
+
+  .businesstravel .btmgimg {
+    left: 8% !important;
+    top: 105px !important;
+  }
+  .businesstravel .amimg {
+    display: none !important;
+  }
+  .businesstravel .accmanagementimagebg {
+    display: none !important;
+  }
+  .businesstravel .accmanagementpart {
+    margin-top: 14rem !important;
+  }
+  .businesstravel .mobbtwomanbg {
+    height: 161px !important;
+    margin-top: 104%;
+    position: relative;
+    left: -25%;
+  }
+  .businesstravel .mobbtwoman {
+    position: relative;
+    margin-top: -9%;
+    height: 87px !important;
+    margin-left: 18%;
+  }
+  .businesstravel .nintyeight .percentage {
+    font-size: 10rem !important;
+  }
+  .businesstravel .nintyeight {
+    font-size: 10rem !important;
+  }
+
+  .businesstravel .cr h4 {
+    padding: 10px;
+    font-size: 2.11rem;
+  }
+  .businesstravel .nintyfive .percentage {
+    font-size: 10rem !important;
+  }
+  .businesstravel .nintyfive {
+    font-size: 10rem !important;
+  }
+  .businesstravel .cs h4 {
+    padding: 10px;
+    font-size: 2.11rem;
+  }
+  .businesstravel .mt-5.ms-5 {
+    margin-top: 0px !important;
+    margin-left: 0px !important;
+    padding: 10px;
+  }
+  .businesstravel .countpart h5 {
+    margin-left: 10px !important;
+  }
+  .businesstravel .countpulusbot {
+    display: none !important;
+  }
+  .businesstravel .smlogo {
+    display: none !important;
+  }
+  .businesstravel .counterwhitebg {
+    height: 820px !important;
+  }
+  .businesstravel .keyben h5 {
+    top: 1% !important;
+    font-size: 2rem !important;
+  }
+  .businesstravel .finfeatext {
+    top: 65% !important;
+    right: -64% !important;
+    font-size: 3rem !important;
+  }
+  .businesstravel .adminfeatext {
+    top: 25% !important;
+    left: 13% !important;
+    font-size: 3rem !important;
+  }
+  .businesstravel .keybenelement2 {
+    bottom: 1% !important;
+  }
+  .businesstravel .formbg {
+    padding: 15px !important;
+  }
+  .businesstravel .btmtext {
+    margin-left: 0px !important;
+    margin-top: 0px !important;
+  }
+  .businesstravel x.accmanagementpart h3 {
+    padding-top: -24rem;
+    font-size: 1.9rem;
+    font-weight: 600;
+    color: #fff;
+    margin-left: 2rem;
+    padding: 11px;
+    padding-bottom: -0.5rem;
+    letter-spacing: 0.1rem;
+    width: 93%;
+    margin-left: -6%;
+  }
+  .businesstravel .accmanagementpart p {
+    font-size: 1.2rem;
+    color: #fff;
+    line-height: 2.2rem;
+    margin-top: 20px;
+    letter-spacing: 0.05rem;
+    margin-left: -20px;
+    margin-right: 16px;
+  }
+  .businesstravel .comitted {
+    padding-inline: 8%;
+  }
+  .businesstravel .amtextelementbtm {
+    padding-bottom: 10%;
+    margin-left: 12%;
+  }
+  .businesstravel .customerper {
+    margin-top: 0rem;
+  }
+}
+/* @media (min-width: 427px) and (max-width: 769px) { */
+@media (min-width: 427px) and (max-width: 821px) {
+  .businesstravel .techelementsmallx {
+    display: none !important;
+  }
+  .businesstravel .btmtext {
+    margin-top: 30rem !important;
+    margin-left: 5rem !important;
+  }
+  .businesstravel .btmpluselement {
+    left: 45% !important;
+    top: 38% !important;
+  }
+  .businesstravel .travelmanagementpart {
+    margin-top: 0px !important;
+  }
+  .businesstravel .amgradientbg {
+    min-height: 150vh !important;
+  }
+  .businesstravel .amimg {
+    display: none !important;
+  }
+  .businesstravel .amimg {
+    display: none !important;
+  }
+  .businesstravel .accmanagementimagebg {
+    display: none !important;
+  }
+  .businesstravel .mobbtwomanbg {
+    height: 190px !important;
+  }
+  .businesstravel .btmimg {
+    position: absolute;
+    left: 37%;
+    top: 500px;
+  }
+  .businesstravel .mobbtwoman {
+    height: 110px !important;
+  }
+  .businesstravel .btmgimg {
+    position: absolute;
+    left: 39% !important;
+    top: 536px !important;
+  }
+  .businesstravel .graypluselement {
+    display: none !important;
+  }
+  .businesstravel .countpulusbot {
+    display: none !important;
+  }
+  .businesslike .mplusblue {
+    font-size: 3.5rem !important;
+  }
+  .businesslike .facts {
+    margin-top: 12vmin !important;
+  }
+  .businesslike .keyben h5 {
+    top: 1% !important;
+    left: 15% !important;
+  }
+  .businesstravel .adminfeabg {
+    min-height: 45vh !important;
+  }
+  .businesstravel .finfeabg {
+    min-height: 45vh !important;
+  }
+  .businesstravel .finfea {
+    margin-top: 40px !important;
+  }
+  .businesstravel .adminfea {
+    margin-top: 40px !important;
+  }
+  .businesstravel .adminfeatext {
+    top: 21% !important;
+  }
+  .businesstravel .finfeatext {
+    right: -60% !important;
+    top: 65.5% !important;
+  }
+  .businesstravel .thumb {
+    margin-left: 1.5rem !important;
+  }
+}
+
+@media (max-width: 376px) {
+  .businesstravel .finfeatext {
+    font-size: 2.6rem !important;
+  }
+
+  .businesstravel .adminfeatext {
+    font-size: 2.6rem !important;
+  }
+  .businesstravel .btmtext p {
+    position: relative;
+    font-size: 1.1rem;
+    color: #fff;
+    line-height: 2.3rem;
+    margin-top: 20px;
+    letter-spacing: 0.1rem;
+    margin-left: 2rem;
+    width: 99%;
+  }
+  .businesstravel .btmtext h3 {
+    font-size: 2.5rem;
+  }
+  .businesstravel.travelmanagementpart h3 {
+    font-size: 1.8rem;
+  }
+  .businesstravel .accmanagementpart h3 {
+    font-size: 2rem;
+    margin-left: -2rem;
+  }
+  .businesstravel .btmimg {
+    visibility: hidden;
+  }
+  .businesstravel .serviceelementbtm {
+    margin-left: -6%;
+  }
+  .businesstravel .inside .a-counter {
+    font-size: 12%;
+  }
+  .businesstravel .serviceelementbtm {
+    position: relative;
+    left: 6%;
+  }
+}
+/* for mobile small  */
+@media (min-width: 320px) and (max-width: 374px) {
+  .businesstravel .travelmanagementpart h3 {
+    font-size: 1.5rem;
+  }
+  .businesstravel .btmimg {
+    position: relative;
+    left: 33%;
+    top: -67%;
+  }
+  .businesstravel .mobbtwoman {
+    position: relative;
+    margin-top: -72%;
+    height: 83px !important;
+    margin-left: 18%;
+  }
+  .businesstravel .adminfeatext {
+    top: 25% !important;
+    left: 15% !important;
+  }
+  .businesstravel .finfeatext {
+    top: 70% !important;
+    right: -75% !important;
+  }
+  .businesstravel .mobbtwomanbg {
+    height: 139px !important;
+    margin-top: 100%;
+    position: relative;
+    left: -23%;
+  }
+}
+
+/* for mobile medium  */
+@media (min-width: 374px) and (max-width: 425px) {
+  .travelmanagementpart h3 {
+    font-size: 1.8rem;
+  }
+  .businesstravel .mobbtwomanbg {
+    height: 143px !important;
+    margin-top: 96%;
+    position: relative;
+    left: -25%;
+  }
+  .businesstravel .mobbtwoman {
+    position: relative;
+    margin-top: -36%;
+    height: 87px !important;
+    margin-left: 11%;
+  }
+}
+
+/* by me - tablet  */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .businesstravel .btmbanelementtech {
+    position: absolute;
+    left: 13%;
+    bottom: 24%;
+    z-index: 2;
+  }
+  .businesstravel .travelmanagementpart {
+    margin-top: -59px !important;
+  }
+  .businesstravel .travelmanagementpart h4 {
+    margin-left: 4.2rem;
+  }
+  .businesstravel .travelmanagementpart h3 {
+    margin-left: 4rem;
+  }
+  .businesstravel .travelmanagementpart p {
+    margin-left: 4rem;
+  }
+  .businesstravel .btmimg {
+    position: absolute;
+    left: 37%;
+    top: 523px;
+  }
+  .businesstravel .btmgimg {
+    position: absolute;
+    left: 39% !important;
+    top: 560px !important;
+  }
+  .businesstravel .accmanagementpart h3 {
+    margin-left: 2rem;
+  }
+  .businesstravel .accmanagementpart {
+    text-align: left;
+    margin-left: 5rem;
+    margin-top: 5rem;
+  }
+  .businesstravel .comitted {
+    padding-inline: 16%;
+  }
+  .businesstravel .finfeabg {
+    margin-left: 4rem;
+  }
+}
+
+/* for laptop  */
+@media screen and (min-width: 1024px) {
+  .businesstravel .finfeabg {
+    margin-left: 0rem;
+  }
+  .businesstravel .finfeatext {
+    right: -48%;
+  }
+  .businesstravel .amtext {
+    font-size: 1.5rem;
+    margin-top: 5rem;
+  }
+  .businesstravel .accmanagementpart h3 {
+    margin-left: 2rem;
+  }
+  .businesstravel .smlogo {
+    width: 3%;
+    position: absolute;
+    left: 9%;
+    top: 9%;
+  }
+  .businesstravel .btmpluselement {
+    position: absolute;
+    left: 69%;
+    top: 13%;
+    z-index: 1;
+  }
+  .businesstravel .tmpulusbot {
+    margin-left: 0rem;
+  }
+  .businesstravel .customerper {
+    margin-left: 4%;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .businesstravel .amgradientbg {
+    min-height: 151vh;
+  }
+  .businesstravel .adminfeabg {
+    min-height: 66vh;
+  }
+  .businesstravel .finfeabg {
+    min-height: 66vh;
+  }
+  .businesstravel .adminfeatext {
+    position: absolute;
+    left: 10%;
+    top: 30%;
+  }
+  .businesstravel .finfeatext {
+    position: absolute;
+    right: -32%;
+    top: 30.5%;
+  }
+  .businesstravel .amtext {
+    font-size: 1.7rem;
+    margin-top: 4rem;
+  }
+  .businesstravel .nintyeight {
+    font-size: 12rem;
+  }
+  .businesstravel .nintyeight .percentage {
+    font-size: 12rem;
+  }
+  .businesstravel .nintyfive {
+    font-size: 12rem;
+  }
+  .businesstravel .nintyfive .percentage {
+    font-size: 12rem;
+  }
+}

@@ -1,0 +1,692 @@
+.techlogobg {
+  background: #17355d url(../img/technologybanner.jpg);
+  height: 420px;
+  display: block;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.container-fluid {
+  width: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.whitelogotech {
+  position: absolute;
+  margin-top: 50px;
+  left: 28%;
+}
+.whitelogotechtxt {
+  position: absolute;
+  width: 80%;
+  margin-top: 280px;
+  left: 10%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #fff;
+}
+.techrighttxt {
+  position: absolute;
+  width: 80%;
+  margin-top: 12%;
+  left: 9%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 3.5rem;
+  color: #fff;
+}
+.p0 {
+  padding: 0px !important;
+  margin: 0px !important;
+}
+.techbannertext {
+  position: absolute;
+  left: 10%;
+  top: 44%;
+  width: 62%;
+  text-align: justify;
+}
+.techbannertext h3 {
+  font-size: 3rem;
+  font-weight: 600;
+  color: #fff;
+}
+.techbannertext .normaltext {
+  font-size: 1rem;
+  color: #fff;
+  line-height: 2rem;
+  margin-top: 30px;
+}
+.serviceelementtech {
+  position: absolute;
+  left: 10%;
+  bottom: 12%;
+  z-index: 2;
+}
+
+.techheader {
+  position: fixed;
+  top: 0px;
+  left: 0;
+  width: 100%;
+  z-index: 900;
+  height: 80px;
+  background: #fff;
+}
+.homeicontech {
+  color: #000033;
+  position: absolute;
+  right: 8%;
+  top: 15%;
+  z-index: 10;
+  font-size: 35px;
+}
+
+.homeicontech a {
+  color: #000033;
+}
+
+.techheader .brand {
+  float: left;
+  margin-left: 5rem;
+  margin-top: 0.5rem;
+  white-space: nowrap;
+}
+
+.techheader .brand img {
+  width: 65%;
+  height: auto;
+}
+
+.techheader .nav-toggle-btn {
+  padding: 26px;
+}
+
+.smlogo {
+  position: absolute;
+  left: 0%;
+  top: 30%;
+}
+
+.techbotline {
+  position: absolute;
+  left: 10%;
+  top: 51%;
+}
+
+.techbotline img {
+  width: 150%;
+}
+.techpulusbot {
+  position: absolute;
+  right: 1%;
+  bottom: 9%;
+  z-index: 1;
+}
+.techpluselement {
+  position: absolute;
+  left: 28%;
+  top: 24%;
+  z-index: 1;
+}
+
+.techelementsmallx {
+  position: absolute;
+  left: 78%;
+  top: 28%;
+  z-index: 2;
+  opacity: 1;
+}
+
+.techserviceelement1bot {
+  position: absolute;
+  right: 54%;
+  bottom: 1%;
+  z-index: 2;
+  opacity: 1;
+}
+
+.apptext {
+  font-size: 1.2rem;
+  color: #c4c4c4;
+  line-height: 2.3rem;
+  margin-top: 35px;
+  letter-spacing: 0.1rem;
+}
+.apptext h4 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #fff;
+  margin: 0px;
+  padding: 0px;
+}
+.apptext span {
+  font-size: 1rem;
+  color: #fff;
+}
+.appimg {
+  margin-right: 100px;
+}
+.talkimg {
+  margin-top: 0px;
+}
+
+.techappbg {
+  background: url(../img/techappbg.jpg);
+  background-repeat: repeat-x;
+  height: 700px;
+  width: 100%;
+}
+.appbtn {
+  position: absolute;
+  margin-top: 9%;
+  left: 36%;
+}
+.appsup {
+  position: relative;
+  margin: -105px 50px 10px 150px;
+  padding: 0px;
+  text-align: left;
+}
+.appsup h3 {
+  font-size: 4rem;
+  font-weight: 400;
+  color: #17355d !important;
+  font-family: "Arizonia";
+  letter-spacing: 0.2rem;
+}
+.appsup a {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #17355d !important;
+  letter-spacing: 0.1rem;
+}
+
+.appsuptxt {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #fff;
+  letter-spacing: 0.1rem;
+}
+
+.talkteam {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #17355d;
+  letter-spacing: 0.1rem;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.mt30 {
+  margin-top: 30px;
+}
+.p30 {
+  padding: 40px 30px 0px 50px;
+}
+.p50 {
+  padding: 40px 50px 0px 40px;
+}
+.pl0 {
+  padding-left: 0px;
+}
+.pr10 {
+  padding-right: 0px;
+}
+.formbg {
+  background: #29a8df;
+}
+
+.talkteamtext {
+  font-size: 1.2rem;
+  color: #17355d;
+  line-height: 2.3rem;
+  font-weight: 500;
+  margin-top: 80px;
+  letter-spacing: 0.1rem;
+}
+.talkteamtext h4 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #17355d;
+  margin: 0px;
+  padding: 0px;
+}
+.talkteamtext span {
+  font-size: 1rem;
+  color: #17355d;
+}
+.talkteambtn {
+  position: absolute;
+  margin-top: 5%;
+  left: 36%;
+  background: #17355d;
+  color: #fff;
+}
+
+.techroundtxttechnology {
+  position: absolute;
+  right: 0%;
+  top: 41%;
+  z-index: 1;
+}
+.talkteam .btn-primary {
+  background: #17355d;
+  position: relative;
+  z-index: 1;
+}
+
+.techroundtxttechnology img {
+  width: 120%;
+}
+
+.semicircleelementtech {
+  position: absolute;
+  right: 0%;
+  top: 44%;
+  z-index: 1;
+}
+
+.technology .stick {
+  width: 29px;
+  height: 3px;
+  margin-bottom: 5px;
+  background-color: #fff;
+  display: inline-block;
+}
+.techgraylogo {
+  position: absolute;
+  margin-top: 8%;
+  left: 3%;
+}
+
+.toparrowtech {
+  position: absolute;
+  right: 5%;
+  bottom: 30%;
+}
+.dashboardpart {
+  background: #e3e3e3;
+  color: #3a3a3a;
+  height: auto;
+  padding-bottom: 140px;
+  margin-top: -30px;
+  text-align: left;
+}
+.dashboard1 {
+  margin-top: 70px;
+  text-align: right;
+}
+.dashboard2 {
+  position: absolute;
+  bottom: -10%;
+}
+
+.dashboardparttext {
+  font-size: 1.2rem;
+  color: #17355d;
+  line-height: 2.3rem;
+  font-weight: 500;
+  margin-top: 120px;
+  padding-left: 60px;
+  letter-spacing: 0.1rem;
+}
+.dashboardparttext h4 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 3rem;
+  color: #17355d;
+  margin: 0px;
+  padding: 0px;
+}
+.dashboardparttext span {
+  font-size: 1rem;
+  color: #17355d;
+}
+
+.dashboardpart .btn-primary {
+  background: #17355d;
+}
+
+.dbbtn {
+  position: absolute;
+  margin-top: 10%;
+  left: 7%;
+}
+
+.FL {
+  float: left;
+}
+
+input.largerCheckbox {
+  width: 20px;
+  height: 20px;
+}
+
+.formpart .btn-primary {
+  background: #17355d;
+}
+.formpart h4 {
+  font-size: 1.7rem;
+  font-weight: 900;
+  letter-spacing: 0.09rem;
+  color: #17355d;
+  margin: 10px;
+  padding: 0px;
+  text-align: center;
+}
+.formpart .normaltxt {
+  font-size: 1.2rem;
+  font-weight: 300;
+  color: #fff;
+  text-align: center;
+}
+.formtext {
+  font-size: 0.75rem;
+  font-weight: normal;
+  color: #17355d;
+  text-align: justify;
+  line-height: normal;
+}
+.formtext span {
+  color: #fff;
+  margin: 0px;
+  padding: 0px;
+}
+
+.formpart .responsive {
+  width: 100%;
+  height: -webkit-fill-available;
+}
+/* for mobile large  */
+@media screen and (max-width: 426px) {
+  .technologyjs .techelementsmallx {
+    display: none !important;
+  }
+  .technologyjs .techpulusbot {
+    display: none !important;
+  }
+  .technologyjs .techserviceelement1bot {
+    display: none !important;
+  }
+  .technologyjs .serviceelementtech {
+    display: none !important;
+  }
+  .technologyjs .techpluselement {
+    /* left: 66% !important;
+    top: 17% !important; */
+    visibility: hidden;
+  }
+  .technologyjs .smlogo {
+    display: none !important;
+  }
+  .technologyjs .techbotline {
+    display: none !important;
+  }
+  .technologyjs .appimg {
+    margin-top: 40px !important;
+    margin-right: 0px !important;
+    position: relative;
+  }
+  .technologyjs .appimg img {
+    top: 141px;
+    height: 211px !important;
+    position: absolute;
+    left: 8%;
+    z-index: 4;
+  }
+  .technologyjs .appsup {
+    margin-top: 142px !important;
+    text-align: left;
+    width: 56%;
+    left: 32%;
+  }
+  .technologyjs .dashboard2 {
+    bottom: 18% !important;
+  }
+  .technologyjs .toparrowtech {
+    display: none !important;
+  }
+  .technologyjs .formbg {
+    padding: 20px !important;
+  }
+  /* ////////////////////////////  */
+  .technologyjs .techbannertext {
+    position: absolute;
+    left: 10%;
+    top: 19%;
+    width: 75%;
+    text-align: justify;
+  }
+  .technologyjs .apptext {
+    /* display: flex; */
+    font-size: 10px;
+    color: #c4c4c4;
+    line-height: 2.3rem;
+    /* margin-top: -8px; */
+    margin-top: -8px;
+    letter-spacing: 0.1rem;
+    /* flex-wrap: wrap; */
+    padding-inline: 29px;
+  }
+  .technologyjs .talkteam .btn-primary {
+    margin-bottom: 47px;
+    background: #17355d;
+    position: relative;
+    z-index: 1;
+  }
+  .technologyjs .dashboardparttext {
+    font-size: 1.2rem;
+    color: #17355d;
+    line-height: 2.3rem;
+    font-weight: 500;
+    margin-top: 52px;
+    padding-left: 34px;
+    letter-spacing: 0.1rem;
+  }
+  .tabcheck {
+    position: relative;
+    width: 104%;
+    margin-left: -2%;
+  }
+  .talkteamtext {
+    padding-inline: inherit;
+    font-size: 1.2rem;
+    color: #17355d;
+    line-height: 2.3rem;
+    font-weight: 500;
+    margin-top: 80px;
+    letter-spacing: 0.1rem;
+  }
+  .techgraylogo {
+    visibility: hidden;
+  }
+  /* footer  */
+  .mt-5 {
+    margin-left: 6%;
+    margin-top: 4rem !important;
+  }
+  footer .footersub {
+    margin-left: 6%;
+    margin-bottom: 20px !important;
+    width: 90%;
+  }
+  footer .submitbtn {
+    margin-left: 3%;
+    float: left;
+    position: relative;
+  }
+  .footersocial-rounded {
+    padding-top: 17%;
+  }
+  .footersocial-rounded {
+    padding-top: 17%;
+  }
+}
+
+/* for mobile small  */
+@media (min-width: 320px) and (max-width: 375px) {
+  .technologyjs .appimg img {
+    top: -18px;
+    height: 211px !important;
+    position: absolute;
+    left: 5%;
+    z-index: 4;
+  }
+  .technologyjs .appsup h3 {
+    font-size: 2.5rem;
+  }
+  .technologyjs .appsup {
+    margin-top: -2px !important;
+    text-align: left;
+    width: 56%;
+    left: 32%;
+  }
+  .appsup a {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #17355d !important;
+    letter-spacing: 0.1rem;
+  }
+  .talkteamtext {
+    padding-inline: inherit;
+    font-size: 1.2rem;
+    color: #17355d;
+    line-height: 2.3rem;
+    font-weight: 500;
+    margin-top: 80px;
+    letter-spacing: 0.1rem;
+  }
+  .mt-5 {
+    margin-left: 1px;
+    margin-top: 3rem !important;
+  }
+  .footersocial-rounded {
+    padding-top: -10px;
+    font-size: 20px;
+    justify-content: space-evenly;
+  }
+}
+/* for mobile medium  */
+@media (min-width: 374px) and (max-width: 425px) {
+  .technologyjs .appimg img {
+    top: 91px;
+    height: 211px !important;
+    position: absolute;
+    left: 5%;
+    z-index: 4;
+  }
+  .technologyjs .appsup h3 {
+    font-size: 2.5rem;
+  }
+  .technologyjs .appsup {
+    margin-top: 120px !important;
+    text-align: left;
+    width: 56%;
+    left: 29%;
+  }
+  .appsup a {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #17355d !important;
+    letter-spacing: 0.1rem;
+  }
+  .techgraylogo {
+    visibility: hidden;
+  }
+  .talkteamtext {
+    padding-inline: inherit;
+    font-size: 1.2rem;
+    color: #17355d;
+    line-height: 2.3rem;
+    font-weight: 500;
+    margin-top: 80px;
+    letter-spacing: 0.1rem;
+  }
+  .mt-5 {
+    margin-left: 12px;
+    margin-top: 5rem !important;
+  }
+  .submitbtn {
+    float: left;
+    position: relative;
+    margin-left: 9px;
+  }
+  .technologyjs .talkteam .btn-primary {
+    margin-bottom: 47px;
+    background: #17355d;
+    position: relative;
+    z-index: 1;
+  }
+  .footersocial-rounded {
+    padding-top: 56px;
+    font-size: 20px;
+    justify-content: space-evenly;
+  }
+}
+/* for tab  */
+@media (min-width: 427px) and (max-width: 821px) {
+  .technologyjs .techpluselement {
+    left: 48% !important;
+    top: 23% !important;
+  }
+  .techgraylogo {
+    visibility: hidden;
+  }
+  .tabcheck {
+    position: relative;
+    width: 87%;
+    margin-left: 44px;
+  }
+}
+
+/* iphone xr  */
+@media only screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) {
+  .technologyjs .appimg img {
+    top: 141px;
+    height: 211px !important;
+    position: absolute;
+    left: 5%;
+    z-index: 4;
+  }
+  .technologyjs .appsup {
+    margin-top: 165px !important;
+    text-align: left;
+    width: 56%;
+    left: 32%;
+  }
+}
+
+/* 12 pro  */
+/* @media only screen and (min-device-width: 390px) {
+  .technologyjs .appimg img {
+    top: 119px;
+    height: 211px !important;
+    position: absolute;
+    left: 5%;
+    z-index: 4;
+  }
+} */
+
+/* for laptop  */
+@media screen and (min-width: 1024px) {
+  .tabcheck {
+    position: relative;
+    width: 87%;
+    margin-left: 6%;
+  }
+  .techgraylogo {
+    visibility: hidden;
+  }
+  .technologyexp {
+    font-size: 1.5rem;
+  }
+}
